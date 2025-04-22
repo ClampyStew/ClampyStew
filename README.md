@@ -24,3 +24,5 @@
 Playlist here > https://open.spotify.com/playlist/1vjDGmnXbfx6Y8oygLJZ5l?si=FWqd8sZBTrqxzm1xdSQv-A
 
 ### How cursed is your VSCode IDE so far?
+![alt text](https://github.com/ClampyStew/markdownmd-assets/blob/main/Screenshot%202025-04-22%20152325.png?raw=true)
+**All of the asset origins will be in this [Pastebin](https://pastebin.com/JZsCgKjr)**
