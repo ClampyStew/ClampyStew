@@ -20,9 +20,5 @@
    - 🎧 Listen to various music with some fancy headphones.
    - ⌨️ Do some shenanigans with my Visual Studio Code IDE.
 
-### Do you have songs that you listen to when you code?
-Playlist here > https://open.spotify.com/playlist/1vjDGmnXbfx6Y8oygLJZ5l?si=FWqd8sZBTrqxzm1xdSQv-A
-
-### How cursed is your VSCode IDE so far?
-![alt text](https://github.com/ClampyStew/markdownmd-assets/blob/main/Screenshot%202025-04-22%20152325.png?raw=true)
+### What are the pictures in your IDE?
 **All of the asset origins will be in this [Pastebin](https://pastebin.com/JZsCgKjr)**
