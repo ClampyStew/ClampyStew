@@ -15,8 +15,6 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ### What do you do during your free time?
-   - 🎮 Working on beating Explorers by SwitchstepGD and MATHICreatorGD on Geometry Dash
-   - 🎮 Grinding for the Death Wish mask on Payday 2
    - 🎧 Listen to various music with some fancy headphones.
    - ⌨️ Do some shenanigans with my Visual Studio Code IDE.
 
