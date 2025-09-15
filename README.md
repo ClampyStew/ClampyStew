@@ -17,6 +17,7 @@
 ### What do you do during your free time?
    - 🎧 Listen to various music with some fancy headphones.
    - ⌨️ Do some shenanigans with my Visual Studio Code IDE.
+   - 🎮 I play some games sometimes too
 
 ### What are the pictures in your IDE?
 **All of the asset origins will be in this [Pastebin](https://pastebin.com/JZsCgKjr)**
