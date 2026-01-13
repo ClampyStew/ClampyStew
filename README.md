@@ -5,7 +5,7 @@
    -  I am currently a Year 1 Cybersecurity & Digital Forestics student at Ngee Ann Polytechnic (SG).
 
 ### Badges from Cybersecurity platforms:
-![tryhackme stats](https://raw.githubusercontent.com/<SET_USERNAME_HERE>/<SET_USERNAME_HERE>/master/assets/thm_propic.png)
+![tryhackme stats](https://raw.githubusercontent.com/ClampyStew/ClampyStew/master/assets/thm_propic.png)
 
 ### Where do you search?
 ![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
