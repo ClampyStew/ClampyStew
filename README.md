@@ -4,6 +4,9 @@
    -  Hi! My name is Zhe Kai. My online alias is ClampyStew.
    -  I am currently a Year 1 Cybersecurity & Digital Forestics student at Ngee Ann Polytechnic (SG).
 
+### Do you use TryHackMe?
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=6655871" style='border:none;'></iframe>
+
 ### Where do you search?
 ![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
 ![StackOverflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
